@@ -1,0 +1,7 @@
+name: BlinkilaScript
+desc: 図形は四角形のみであり、四角形はモールス信号に従って点滅することにより文字となる文字体系。
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+dependencies:
+  csv: ^5.0.0
